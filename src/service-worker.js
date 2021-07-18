@@ -1,5 +1,5 @@
 
-workbox.core.setCacheNameDetails({prefix: "vue-pwa-dev"});
+workbox.core.setCacheNameDetails({prefix: "vue-pwa"});
 
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
